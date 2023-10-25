@@ -1,0 +1,11 @@
+.content{
+    color:#ff900078
+}
+:fullscreen {
+
+}
+.content {
+    display: flex;
+    user-select: none;
+    transition: all 2s ease;
+}
